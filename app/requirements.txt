@@ -1,2 +1,6 @@
 flask
 redis
+fastapi
+uvicorn
+sqlachemy
+psycopg2
